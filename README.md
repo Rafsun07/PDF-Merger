@@ -9,4 +9,4 @@ PDF merger using Python Automation Script.
 
 ## Contribiutions  :
 
-## Inspired By
+## Inspired By:
