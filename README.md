@@ -7,6 +7,6 @@ PDF merger using Python Automation Script.
 
 ## How the code works:
 
-## Contribiutions  :
+## Contribiutions:
 
 ## Inspired By:
