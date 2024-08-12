@@ -2,7 +2,6 @@
 PDF merger using Python Automation Script.
 
 
-
 ## Installation:
 
 ## Instructions:
